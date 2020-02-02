@@ -52,5 +52,6 @@ JPDA（Java Platform Debugger Architecture）是Java平台调试体系结构的�
 - 手把手教你实现热更新功能，带你了解 Arthas 热更新背后的原理  [https://www.cnblogs.com/goodAndyxublog/p/11880314.html](https://www.cnblogs.com/goodAndyxublog/p/11880314.html)
 - javaagent使用指南  [https://www.cnblogs.com/rickiyang/p/11368932.html](https://www.cnblogs.com/rickiyang/p/11368932.html)
 
-
+## 五、更多
+源码地址 [https://github.com/WangJi92/remote-debug-example](https://github.com/WangJi92/remote-debug-example)
 > 更多[汪小哥](https://wangji.blog.csdn.net/) or [语雀分享](https://www.yuque.com/docs/share/970bb79c-be5d-4895-96d5-2d10955e4b13?#)
